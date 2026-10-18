@@ -1,0 +1,9 @@
+# Versions tested locally on Python 3.13 (Windows)
+cryptography==50.0.2
+pandas==3.0.6
+matplotlib==3.11.2
+
+# Running the notebook
+ipykernel==7.4.0
+ipython==9.17.1
+nbconvert==7.17.2
